@@ -1,7 +1,7 @@
 gitlab
 ============
 
-Repozytorium zawiera opis laboratorium, z podstaw wykorzystania systemu kontroli wersji Git, realizowanego w ramach przedmotu 'Podstawy Inżynierii Oprogramowania' prowadzonego przez Instytut Informatyki Stosowanej dla studentów kierunku Informatyka na wydziale Elektrotechniki, Elektroniki Informatyki i Automatyki Politechniki Łódzkiej.
+Repozytorium zawiera opis laboratorium z podstaw wykorzystania systemu kontroli wersji Git, realizowanego w ramach przedmotu 'Podstawy Inżynierii Oprogramowania' prowadzonego przez Instytut Informatyki Stosowanej dla studentów kierunku Informatyka na wydziale Elektrotechniki, Elektroniki Informatyki i Automatyki Politechniki Łódzkiej.
 
 Pliki:
 ----------------
@@ -33,7 +33,7 @@ Scenariusze
   2. Rozwój cechy 3.
   3. Wysłanie zmian do zdalnego repozytorium.
   4. Wysłanie informacji o zmianach (pull request) do właściciela projektu.
-  5. Wprowadzenie zmian wykonanych przez kolegę/koleżankę do swojego repozytorium zdalnego.
+  5. Wprowadzenie zmian wykonanych przez kolegę/koleżankę do swojego repozytorium zdalnego i utworzenie wersji projektu.
 
 TODO
 --------------
