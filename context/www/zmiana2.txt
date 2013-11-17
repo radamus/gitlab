@@ -1,0 +1,3 @@
+Problem: Podstawowa struktura strony nie posiada informacji nt. strony kodowej oraz rodzaju zawartości
+Rozwiązanie - uzupełnienie nagłówka strony: 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">

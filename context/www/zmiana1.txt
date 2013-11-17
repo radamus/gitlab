@@ -1,0 +1,7 @@
+
+1. Tytuł sekcji 1: 
+Systemy kontroli wersji
+2. Zawartość sekcji 1:
+System kontroli wersji (ang. version/revision control system) – oprogramowanie służące do śledzenia zmian głównie w kodzie źródłowym oraz pomocy programistom w łączeniu zmian dokonanych w plikach przez wiele osób w różnych momentach czasowych.
+3. Stopka sekcji 1:
+<a href="http://pl.wikipedia.org/wiki/System_kontroli_wersji">Wikipedia</a>

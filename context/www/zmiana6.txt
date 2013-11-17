@@ -1,0 +1,13 @@
+Nowa sekcja dokumentu:
+
+<section id="section3" class="panel panel-default">
+		<div class="panel-heading">
+    		<h3 class="panel-title">Scentralizowany system kontroli wersji.</h3>
+  		</div>
+  		<div class="panel-body">
+	    	W scentralizowanych systemach kontroli wersji istnieje jedno centralne repozytorium, przechowujące wszystkie jednostki poddane kontroli wersji oraz wielu klientów, którzy łącząc się z nim za pośrednictwem usługi, uzyskują dostęp do poszczególnych wersji się dokumentów.
+	  	</div>
+		<footer class="panel-footer">
+			<a href="http://git-scm.com/book/pl/Pierwsze-kroki-Wprowadzenie-do-kontroli-wersji#Scentralizowane-systemy-kontroli-wersji">Git - podręcznik</a>
+		</footer>
+</section>

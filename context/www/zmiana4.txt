@@ -1,0 +1,16 @@
+Zawartość znacznika <nav>
+
+	 <div class="navbar-header">
+		 <a class="navbar-brand" href="#">IISlabPIO</a>
+	 </div>
+	 <div class="collapse navbar-collapse">
+	 	<ul class="nav navbar-nav">
+   			<li><a href="#section1">Systemy kontroli wersji</a></li>
+   			<li><a href="#section2">Rozproszony system kontroli wersji</a></li>
+   		</ul>
+   	</div>
+
+
+Zawartość znacznika <footer>
+
+Opracowane na zajęciach "Podstawy systemu Git" w ramach laboratorium z Podstaw Inżynierii Oprogramowania w <a href="http://www.iis.p.lodz.pl/">Instytucie Informatyki Stosowanej PŁ</a>
