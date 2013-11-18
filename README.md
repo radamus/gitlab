@@ -10,8 +10,8 @@ Zmiany realizowane w poszczególnych zadaniach znajdują się w odrębnych folde
 
 Koncepcja
 -----------------
-Struktura laboratorium oddziela problem kontroli wersji (który jest związany z laboratorium), od projektu podlegającego kontroli wersji (który jest tylko przykładem - kontekstem). Z tego powodu zmiany, które należy wprowadzić w projekcie, opisane są w osobnych plikach. Dzięki temu możliwa jest zmiana przykładu - domyślnie jest to strona WWW, ale można wprowadzić kontekst bardziej programistyczny lub związany z nieinformatyczną dziedziną. Ograniczeniem jest struktura laboratorium wprowadzająca określony scenariusz zmian.
-Taka generyczność wymusza również adekwatny opis laboratorium, w którym np. zamiast określenia: "Otwórz stronę w przeglądarce w celu kontroli poprawności struktury po zmianach" znajduje się treść: "Przetestuj poprawność wprowadzonych zmian". Dodatkowym efektem takiego zabiegu jest powstanie sytuacji, w które student sam musi określić sposób kontroli poprawności, w zależności od rodzaju przykładu.
+Struktura laboratorium oddziela problem kontroli wersji (który jest tematem laboratorium), od projektu podlegającego kontroli wersji (który jest tylko przykładem - kontekstem). Zmiany, które należy wprowadzać w ramach przykładowego projektu, opisane są niezależnie, w osobnych plikach. Możliwa jest, dzięki temu, zmiana kontekstu kontroli wersji. Domyślnie jest to strona WWW, ale można wprowadzić kontekst bardziej programistyczny (np. projekt w Javie) lub temat nie związany z dziedziną wytwarzania oprogramowania (np. opracowywanie dokumentu ustawy). Ograniczeniem jest struktura laboratorium wprowadzająca określony scenariusz zmian.
+Taka generyczność wymusza również adekwatny opis laboratorium, w którym np. zamiast określenia: "Otwórz stronę w przeglądarce w celu kontroli poprawności struktury po zmianach" znajduje się treść: "Przetestuj poprawność wprowadzonych zmian". Efektem takiego zabiegu jest powstanie sytuacji, w które student sam musi określić sposób kontroli poprawności, w zależności od rodzaju przykładu.
 
 
 Scenariusze 
