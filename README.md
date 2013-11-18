@@ -18,14 +18,14 @@ Scenariusze
 ----------------
 1. Praca indywidualna
 
-  1. Inicjalizacja i połączenie ze sobą repozytorium lokalnego oraz zdalnego.
+    1. Inicjalizacja i połączenie ze sobą repozytorium lokalnego oraz zdalnego.
   2. Wersja początkowe projektu.
   3. Utworzenie gałęzi dla odrębnych cech.
   4. Rozwój cechy pierwszej.
   5. Wprowadzenie zmiany w gałęzi master i scalenie jej z gałęziami dla cech.
   6. Rozwój cechy drugiej.
   7. Scalenie cech z gałęzią master.
-  8. Wysłanie do zdalnego repozytorium rezultatów i utworzenie wersji (release) projektu.
+  8. Wysłanie do zdalnego repozytorium rezultatów i utworzenie wydania (release) projektu.
 
 2. Praca zespołowa 
 
@@ -33,7 +33,7 @@ Scenariusze
   2. Rozwój cechy 3.
   3. Wysłanie zmian do zdalnego repozytorium.
   4. Wysłanie informacji o zmianach (pull request) do właściciela projektu.
-  5. Wprowadzenie zmian wykonanych przez kolegę/koleżankę do swojego repozytorium zdalnego i utworzenie wersji projektu.
+  5. Wprowadzenie zmian wykonanych przez kolegę/koleżankę do swojego repozytorium zdalnego i utworzenie kolejnego wydania projektu.
 
 TODO
 --------------
