@@ -20,10 +20,10 @@ Scenariusze
 
     1. Inicjalizacja i połączenie ze sobą repozytorium lokalnego oraz zdalnego.
   2. Wersja początkowe projektu.
-  3. Utworzenie gałęzi dla odrębnych cech.
-  4. Rozwój cechy pierwszej.
-  5. Wprowadzenie zmiany w gałęzi master i scalenie jej z gałęziami dla cech.
-  6. Rozwój cechy drugiej.
+  3. Utworzenie gałęzi dla odrębnych cech (feature branches).
+  4. Częściowy rozwój cech.
+  5. Wprowadzenie zmiany w gałęzi master (bugFix) i scalenie jej z gałęziami cech.
+  6. Finalizacja implementacji cech.
   7. Scalenie cech z gałęzią master.
   8. Wysłanie do zdalnego repozytorium rezultatów i utworzenie wydania (release) projektu.
 
