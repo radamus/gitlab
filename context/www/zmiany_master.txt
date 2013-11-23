@@ -1,4 +1,4 @@
-Zawartość znacznika <nav>
+1. Zawartość znacznika <nav>
 
 	 <div class="navbar-header">
 		 <a class="navbar-brand" href="#">IISlabPIO</a>
@@ -11,6 +11,11 @@ Zawartość znacznika <nav>
    	</div>
 
 
-Zawartość znacznika <footer>
+2. Zawartość znacznika <footer>
 
 Opracowane na zajęciach "Podstawy systemu Git" w ramach laboratorium z Podstaw Inżynierii Oprogramowania w <a href="http://www.iis.p.lodz.pl/">Instytucie Informatyki Stosowanej PŁ</a>
+
+
+3. Uzupełnienie nagłowka strony o link do arkusza stylu:
+
+<link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
