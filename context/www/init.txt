@@ -20,7 +20,7 @@ Początkowa wersja dokumentu HTML:
 	    		Section1 content
 	  		</div>
 			<footer class="panel-footer">
-				Section2 footer
+				Section1 footer
 			</footer>
 		</section>
 		<section id="section2" class="panel panel-default">
