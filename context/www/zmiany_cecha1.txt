@@ -1,4 +1,4 @@
-Zmiany wprowadzaj kolejno, zgodnie z punktami opisu, za każdym testując i zatwierdzając je w repozytorium:
+Zmiany wprowadzaj kolejno, zgodnie z punktami i opisem laboratorium, za każdym testując i zatwierdzając je w repozytorium:
 
 1. Tytuł sekcji 1: 
 Systemy kontroli wersji
