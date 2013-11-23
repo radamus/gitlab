@@ -1,3 +1,3 @@
-1. Uzupełnienie nagłowka strony o link do arkusza stylu:
+1. Uzupełnienie nagłówka strony o link do arkusza stylu:
 
 <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" rel="stylesheet">
